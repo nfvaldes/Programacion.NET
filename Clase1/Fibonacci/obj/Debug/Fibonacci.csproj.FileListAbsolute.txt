@@ -1,0 +1,7 @@
+C:\Users\nvaldes\source\repos\Clase1_Ejemplos\Fibonacci\bin\Debug\Fibonacci.exe.config
+C:\Users\nvaldes\source\repos\Clase1_Ejemplos\Fibonacci\bin\Debug\Fibonacci.exe
+C:\Users\nvaldes\source\repos\Clase1_Ejemplos\Fibonacci\bin\Debug\Fibonacci.pdb
+C:\Users\nvaldes\source\repos\Clase1_Ejemplos\Fibonacci\obj\Debug\Fibonacci.csprojAssemblyReference.cache
+C:\Users\nvaldes\source\repos\Clase1_Ejemplos\Fibonacci\obj\Debug\Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\nvaldes\source\repos\Clase1_Ejemplos\Fibonacci\obj\Debug\Fibonacci.exe
+C:\Users\nvaldes\source\repos\Clase1_Ejemplos\Fibonacci\obj\Debug\Fibonacci.pdb

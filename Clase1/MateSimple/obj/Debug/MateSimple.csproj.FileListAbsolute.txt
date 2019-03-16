@@ -1,0 +1,7 @@
+C:\Users\nvaldes\source\repos\Clase1_Ejemplos\MateSimple\bin\Debug\MateSimple.exe.config
+C:\Users\nvaldes\source\repos\Clase1_Ejemplos\MateSimple\bin\Debug\MateSimple.exe
+C:\Users\nvaldes\source\repos\Clase1_Ejemplos\MateSimple\bin\Debug\MateSimple.pdb
+C:\Users\nvaldes\source\repos\Clase1_Ejemplos\MateSimple\obj\Debug\MateSimple.csprojAssemblyReference.cache
+C:\Users\nvaldes\source\repos\Clase1_Ejemplos\MateSimple\obj\Debug\MateSimple.csproj.CoreCompileInputs.cache
+C:\Users\nvaldes\source\repos\Clase1_Ejemplos\MateSimple\obj\Debug\MateSimple.exe
+C:\Users\nvaldes\source\repos\Clase1_Ejemplos\MateSimple\obj\Debug\MateSimple.pdb

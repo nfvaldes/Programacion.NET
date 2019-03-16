@@ -1,0 +1,7 @@
+C:\Users\nvaldes\source\repos\Clase1_Ejemplos\Sumatoria\bin\Debug\Sumatoria.exe.config
+C:\Users\nvaldes\source\repos\Clase1_Ejemplos\Sumatoria\bin\Debug\Sumatoria.exe
+C:\Users\nvaldes\source\repos\Clase1_Ejemplos\Sumatoria\bin\Debug\Sumatoria.pdb
+C:\Users\nvaldes\source\repos\Clase1_Ejemplos\Sumatoria\obj\Debug\Sumatoria.csprojAssemblyReference.cache
+C:\Users\nvaldes\source\repos\Clase1_Ejemplos\Sumatoria\obj\Debug\Sumatoria.csproj.CoreCompileInputs.cache
+C:\Users\nvaldes\source\repos\Clase1_Ejemplos\Sumatoria\obj\Debug\Sumatoria.exe
+C:\Users\nvaldes\source\repos\Clase1_Ejemplos\Sumatoria\obj\Debug\Sumatoria.pdb

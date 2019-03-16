@@ -1,0 +1,7 @@
+C:\Users\nvaldes\source\repos\Clase1_Ejemplos\Multiplicar\bin\Debug\Multiplicar.exe.config
+C:\Users\nvaldes\source\repos\Clase1_Ejemplos\Multiplicar\bin\Debug\Multiplicar.exe
+C:\Users\nvaldes\source\repos\Clase1_Ejemplos\Multiplicar\bin\Debug\Multiplicar.pdb
+C:\Users\nvaldes\source\repos\Clase1_Ejemplos\Multiplicar\obj\Debug\Multiplicar.csprojAssemblyReference.cache
+C:\Users\nvaldes\source\repos\Clase1_Ejemplos\Multiplicar\obj\Debug\Multiplicar.csproj.CoreCompileInputs.cache
+C:\Users\nvaldes\source\repos\Clase1_Ejemplos\Multiplicar\obj\Debug\Multiplicar.exe
+C:\Users\nvaldes\source\repos\Clase1_Ejemplos\Multiplicar\obj\Debug\Multiplicar.pdb
